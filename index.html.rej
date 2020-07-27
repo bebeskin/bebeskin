@@ -1,9 +1,0 @@
-diff a/index.html b/index.html	(rejected hunks)
-@@ -95,6 +95,7 @@
- 				<div class="left-side-wrap">
- 					<div class="program-list-area">
- 						<div class="top-cnt">
-+							<h2 class="title">추천동영상5-3</h2>
- 							<a href="#" class="more">편성표 보기</a>
- 						</div>
- 						<div class="list-cnt">
